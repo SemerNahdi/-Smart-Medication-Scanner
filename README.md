@@ -1,4 +1,8 @@
+
 # 💊 Smart Medication Scanner
+
+![Smart Medication Scanner Demo](![alt text](image-1.png))  
+*Demo: Smart Medication Scanner Interface*
 
 The **Smart Medication Scanner** is an AI-powered application that helps users identify medications by analyzing images of medication packages. It uses OCR (Optical Character Recognition) to extract text from images and matches it against a database of medications. The app also provides detailed information about the medication, including dosage, form, and potential drug interactions.
 
@@ -10,6 +14,9 @@ The **Smart Medication Scanner** is an AI-powered application that helps users i
 - **See All Matches**: Option to view all matches.
 - **Medication Details**: Provides detailed information about the selected medication.
 - **Drug Interactions**: Checks for potential drug interactions using the OpenFDA API.
+
+![OCR Text Extraction Example]![alt text](image-2.png)
+*Demo: OCR Text Extraction*
 
 ## Installation
 
@@ -95,7 +102,10 @@ medication-scanner/
 ├── medications.xltx
 ```
 
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+For example:
+![Smart Medication Scanner Demo](images/demo1.png)
