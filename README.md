@@ -105,10 +105,3 @@ medication-scanner/
 ├── medications.xltx
 ```
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-For example:
-![Smart Medication Scanner Demo](images/demo1.png)
