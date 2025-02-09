@@ -26,7 +26,7 @@ ocr_model = PaddleOCR(
 EXCEL_DB_PATH = "medications.xltx"
 
 # OpenFDA API Key (Sign up at https://open.fda.gov/apis/)
-OPENFDA_API_KEY = "sUrx5CRuj0IfgElNS3II5uu2cYSrK0x98u9BAkiR"  # Replace with your OpenFDA API key
+OPENFDA_API_KEY = "your-api-key-here"  # Replace with your OpenFDA API key
 OPENFDA_BASE_URL = "https://api.fda.gov/drug/label.json"
 
 # Cache interactions to avoid repeated API calls
